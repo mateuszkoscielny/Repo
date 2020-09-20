@@ -1,0 +1,1 @@
+Get-GPOReport -name "$GPOName" -ReportType Xml
